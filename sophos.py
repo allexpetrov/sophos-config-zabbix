@@ -1,4 +1,11 @@
 #!/bin/python
+"""
+version = 0.1apha
+tested python version = 2.7.5
+tested Sophos = 9.6
+tested Sophos API = 1.3.6
+tested Zabbix Server = 4.0.2
+"""
 
 import sys
 import requests
